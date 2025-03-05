@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Abu Bin Oalid
 
-Welcome to my GitHub profile of 6amTech Office. My personal profile is [oalid-cse](https://github.com/oalid-cse/)! I'm a Senior Software Developer with a passion for creating efficient, scalable, and secure web applications. Here's a little more about me:
+Welcome to my GitHub profile of 6amTech Office. My personal profile is [oalid-cse](https://github.com/oalid-cse/)! I'm a Senior Software Engineer with a passion for creating efficient, scalable, and secure web applications. Here's a little more about me:
 
 ---
 
